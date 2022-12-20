@@ -19,7 +19,7 @@ const RoomPage = () => {
             sharedLinks: [
                 {
                     name : 'Copy Link Here',
-                    url : `http://localhost:3001/room/${roomId}`
+                    url : `https://63a2117ba8fc310251f5e491--marvelous-cupcake-e38f55.netlify.app/`
                 }
             ],
             scenario: {
