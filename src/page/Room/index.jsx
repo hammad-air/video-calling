@@ -25,7 +25,7 @@ const RoomPage = () => {
             scenario: {
                 mode: ZegoUIKitPrebuilt.GroupCall
             },
-            showScreenSharingButton: false,
+            showScreenSharingButton: true,
         })
     }
     return <div>
