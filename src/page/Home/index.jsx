@@ -1,7 +1,7 @@
 import React, { useState, useCallback } from 'react'
 import { useNavigate } from 'react-router-dom';
 import { Button } from 'react-bootstrap';
-import images from '../pic/name.png';
+// import images from '../pic/name.png';
 import '../Home/index.css'
 
 const HomePage = () => {
@@ -17,8 +17,8 @@ const HomePage = () => {
             <br />
             <br />
             <br />
-           <center> <img className='img' src={images}/></center>
         <div className="roomInput">
+           {/* <center> <img className='img' src={images}/></center> */}
             <input
                 value={value}
                 onChange={(e) => setValue(e.target.value)}
