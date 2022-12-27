@@ -18,7 +18,7 @@ const RoomPage = () => {
             container: element,
             sharedLinks: [
                 {
-                    name : 'Copy Link Here',
+                    name : 'Copy Link from Here',
                     url : `https://63a2117ba8fc310251f5e491--marvelous-cupcake-e38f55.netlify.app/`
                 }
             ],
